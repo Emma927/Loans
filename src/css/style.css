@@ -156,25 +156,23 @@ body {
     font-weight: 600;
 }
 
-.icons__item {
-    &::before {
-        font-family: "Font Awesome 5 Free", sans-serif;
-        color: var(--accent-color);
-        font-size: 2rem;
-        font-weight: 700;
-    }
+.icons__item::before {
+    font-family: "Font Awesome 5 Free", sans-serif;
+    color: var(--accent-color);
+    font-size: 2rem;
+    font-weight: 700;
+}
 
-    &:nth-child(1)::before {
-        content: "\f0c2";
-    }
+.icons__item:nth-child(1)::before {
+    content: "\f0c2";
+}
 
-    &:nth-child(2)::before {
-        content: "\f3d1";
-    }
+.icons__item:nth-child(2)::before {
+    content: "\f3d1";
+}
 
-    &:nth-child(3):before {
-        content: "\f2f2";
-    }
+.icons__item:nth-child(3):before {
+    content: "\f2f2";
 }
 
 .main .main__intro {
