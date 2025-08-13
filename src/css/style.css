@@ -2,7 +2,7 @@
     --main-color: rgb(1, 36, 186);
     --accent-color: rgb(9, 216, 98);
     --text-color: rgb(53, 53, 53);
-    --elem-radius: 8px
+    --elem-radius: 8px;
 }
 
 * {
@@ -171,7 +171,7 @@ body {
     content: "\f3d1";
 }
 
-.icons__item:nth-child(3):before {
+.icons__item:nth-child(3)::before {
     content: "\f2f2";
 }
 
@@ -212,10 +212,8 @@ body {
         font-size: 0.9rem;
     }
 
-    .icons__item {
-        &::before {
-            font-size: 1.75rem;
-        }
+    .icons__item::before {
+        font-size: 1.75rem;
     }
 
     .intro__info .info__small-heading {
@@ -232,10 +230,8 @@ body {
         font-size: 0.75rem;
     }
 
-    .icons__item {
-        &::before {
-            font-size: 1.5rem;
-        }
+    .icons__item::before {
+        font-size: 1.5rem;
     }
 
     .main .main__intro {
@@ -276,10 +272,10 @@ body {
     display: flex;
     flex-direction: column;
     margin-bottom: 20px;
+}
 
-    &:last-of-type {
-        margin-bottom: 40px;
-    }
+.intro__form .form__field:last-of-type {
+    margin-bottom: 40px;
 }
 
 .form__heading {
