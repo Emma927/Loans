@@ -3,7 +3,7 @@
 This project was created as an exercise during the JavaScript Developer course, in the advanced HTML and CSS module. It is a one-page website built entirely from scratch.
 
 **Available online at:**  
-[https://loans-app.netlify.app/](https://loans-app.netlify.app/)
+[https://loans-app.netlify.app](https://loans-app.netlify.app)
 
 ## 🚀 Features
 
