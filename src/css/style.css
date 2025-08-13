@@ -338,8 +338,13 @@ button[type="submit"] {
 }
 
 @media screen and (max-width: 768px) {
+
     .form__heading {
         font-size: 1.5rem;
+    }
+
+    .intro__form {
+        margin-left: 0;
     }
 
     button[type="submit"] {
