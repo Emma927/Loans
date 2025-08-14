@@ -15,8 +15,8 @@ This project was created as an exercise during the JavaScript Developer course, 
 Below are example screenshots of the Loans app on desktop and mobile devices.
 
 <div style="display: flex; flex-direction: column; justify-content: center; align-items: center; gap: 10px; margin-bottom: 40px">
-  <img src="src/docs/screenshots/desktop-view1.png" alt="Desktop view" style="margin-right: 10px;">
-  <img src="src/docs/screenshots/mobile-view1.png" alt="Mobile view">
+  <img src="src/screenshots/desktop-view1.png" alt="Desktop view" style="margin-right: 10px;">
+  <img src="src/screenshots/mobile-view1.png" alt="Mobile view">
 </div>
 
 ## 🛠️ Technologies
