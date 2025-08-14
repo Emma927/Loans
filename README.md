@@ -8,7 +8,7 @@ This project was created as an exercise during the JavaScript Developer course, 
 ## 🚀 Features
 
 - Basic layout and UI design
-- Responsive interface
+- Responsive Web Design (Desktop First)
 
 ## 📸 Screenshots
 
