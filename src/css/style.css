@@ -41,7 +41,7 @@ body {
 }
 
 /*NAVIGATION*/
-.nav-toggle {
+.nav__toggle {
     display: none; /* Ukryj checkbox */
 }
 
@@ -98,7 +98,7 @@ body {
         font-size: 1.75rem;
     }
 
-    .nav-toggle:checked + .hamburger + .nav__bar {
+    .nav__toggle:checked + .hamburger + .nav__bar {
         display: flex;
     }
 
