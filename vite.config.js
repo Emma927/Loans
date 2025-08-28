@@ -3,7 +3,7 @@ import { defineConfig } from "vite";
 /**
  * Path to loans folder
  */
-const loansPath = "";
+const loansPath = ".";
 
 /**
  * Don't change those lines below
