@@ -31,7 +31,7 @@ body {
     }
 }
 
-/*HEADER*/
+/* HEADER */
 .header {
     height: 80px;
     display: flex;
@@ -40,13 +40,13 @@ body {
     position: relative;
 }
 
-/*NAVIGATION*/
+/* NAVIGATION */
 .nav__toggle {
-    display: none; /* Ukryj checkbox */
+    display: none; /* Hide checkbox */
 }
 
 .hamburger {
-    display: none; /* Ukryj hamburger */
+    display: none; /* Hide hamburger */
 }
 
 .nav__logo {
@@ -144,7 +144,7 @@ body {
     }
 }
 
-/*MAIN*/
+/* MAIN */
 .main {
     display: flex;
     align-items: center;
@@ -256,7 +256,7 @@ body {
     }
 }
 
-/*FORM*/
+/* FORM */
 .intro__form {
     display: flex;
     flex-direction: column;
